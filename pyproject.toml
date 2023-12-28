@@ -17,6 +17,7 @@ classifiers = [
 ]
 dependencies = [
   "music-tag",
+  "tqdm",
 ]
 dynamic = ["version"]
 
